@@ -1,1 +1,2 @@
-# mozsplashpg
+# splash-page
+
